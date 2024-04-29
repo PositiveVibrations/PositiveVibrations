@@ -6,7 +6,7 @@ Developer and QA Engineer
 
 Bachelors in Computer Science with a Concentration in Cyber Security, I am a detail-oriented Computer Analyst eager to apply my skills in Python, Java, and Selenium to dynamic roles in the technology field. My academic achievements, including graduating Summa Cum Laude, reflect my dedication to excellence and my ability to tackle complex challenges. I have a strong interest in Selenium quality testing and am eager to contribute to innovative projects in this area. My technical expertise includes Python, Java, JavaScript, HTML, CSS, MySQL, SQL, and frameworks such as Flask and Node.js. I am proficient in using Selenium WebDriver for automated testing and have a keen eye for identifying and resolving issues in software systems. In addition to my technical skills, I bring a collaborative and proactive approach to problem-solving, making me a valuable asset to any team. I am committed to continuous learning and development, keeping abreast of the latest technologies and best practices to deliver optimal solutions.
 
-* 🌍  I'm based in United States
+* 🌍  I'm based in San Antonio, Texas, United States
 * ✉️  You can contact me at [jeffrey.stapleton@utexas.edu](mailto:jeffrey.stapleton@utexas.edu)
 * 🧠  I'm learning AI and Testing
 * 🤝  I'm open to collaborating on interesting projects
