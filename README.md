@@ -11,6 +11,8 @@ Bachelors in Computer Science with a Concentration in Cyber Security, I am a det
 * 🧠  I'm learning AI and Testing
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a master level chess player.
+* ![image](https://github.com/PositiveVibrations/PositiveVibrations/assets/99701143/356bfc40-4e6e-4339-84f2-3bc8dbc978be)
+
 
 ### Skills
 
