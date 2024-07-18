@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeffrey
 =========================================================================================================================================
-
-Developer and QA Engineer
+Cybersecurity Analyst | IT Specialist | Skilled in Python, Java & Selenium Automation | Ensuring Data Security & System Efficiency
 -------------------------
 
 Innovative Information Technology Professional with a Bachelor of Science in Computer Science, specializing in Cyber Security. Adept in Python, Java, and Selenium, I bring strong analytical and problem-solving skills to develop and enhance computer programs and systems. With a proven ability to work independently and collaboratively, I am dedicated to continuous learning and applying the latest technologies to deliver innovative solutions. Eager to contribute to dynamic and challenging roles in technology, driving success for my employer through my expertise and commitment.
